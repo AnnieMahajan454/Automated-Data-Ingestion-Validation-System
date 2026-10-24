@@ -1,0 +1,13 @@
+Order ID,Customer Name,Sale Date,Product,Quantity,Unit Price,Total,Region
+1001,John Smith,2024-01-05,Laptop,2,850.00,1700.00,North
+1002,jane doe,01/08/2024,Mouse,,25.50,51.00,South
+1003,ALICE JOHNSON,2024-01-10,Keyboard,1,45.00,45.00,East
+1001,John Smith,2024-01-05,Laptop,2,850.00,1700.00,North
+1004,Bob Williams,Jan 12 2024,Monitor,3,,600.00,West
+1005,carol white,2024-01-15,Laptop,1,850.00,850.00,
+1006,David Brown,2024/01/18,USB Hub,5,15.00,75.00,North
+1007,,2024-01-20,Headphones,2,120.00,240.00,East
+1008,Emily Davis,20-01-2024,Webcam,1,89.99,89.99,South
+1003,ALICE JOHNSON,2024-01-10,Keyboard,1,45.00,45.00,East
+1009,Frank Miller,2024-01-22,Laptop,N/A,850.00,,West
+1010,Grace Wilson,2024-01-25,Mouse,4,25.50,102.00,North

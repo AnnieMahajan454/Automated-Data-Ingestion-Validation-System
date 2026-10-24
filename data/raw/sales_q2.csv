@@ -1,0 +1,12 @@
+Order ID,Customer Name,Sale Date,Product,Quantity,Unit Price,Total,Region
+2001,Linda Carter,2024-04-02,Laptop,1,850.00,850.00,North
+2002,peter parker,04/05/2024,Mouse,3,25.50,76.50,South
+2003,TONY STARK,2024-04-08,Monitor,2,200.00,400.00,East
+2004,Bruce Wayne,April 10 2024,Keyboard,,45.00,90.00,West
+2005,Diana Prince,2024-04-12,USB Hub,4,15.00,60.00,North
+2006,clark kent,2024/04/15,Headphones,1,120.00,120.00,
+2007,,2024-04-18,Webcam,2,89.99,179.98,South
+2008,Barry Allen,18-04-2024,Laptop,1,850.00,850.00,East
+2003,TONY STARK,2024-04-08,Monitor,2,200.00,400.00,East
+2009,Hal Jordan,2024-04-22,Mouse,N/A,25.50,,West
+2010,Arthur Curry,2024-04-25,Laptop Stand,3,22.00,66.00,North

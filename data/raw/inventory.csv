@@ -1,0 +1,13 @@
+Product ID,Product Name,Category,Stock Qty,Reorder Level,Unit Cost,Last Restocked,Supplier
+P001,Wireless Mouse,Electronics,150,50,18.00,2024-02-01,TechSupply Co
+P002,mechanical keyboard,Electronics,,30,75.00,01/15/2024,KeyMaster Ltd
+P003,HDMI Cable,Accessories,200,40,8.50,2024-02-10,CableWorld
+P001,Wireless Mouse,Electronics,150,50,18.00,2024-02-01,TechSupply Co
+P004,Laptop Stand,Accessories,N/A,20,22.00,Feb 5 2024,ErgoDesk
+P005,USB-C Hub,Electronics,60,25,35.00,,TechSupply Co
+P006,monitor arm,Accessories,45,15,48.00,2024/02/20,ErgoDesk
+P007,Webcam HD,Electronics,80,30,65.00,2024-02-22,VisionTech
+P008,,Accessories,120,35,5.50,2024-02-25,CableWorld
+P009,Noise Cancelling Headphones,Electronics,35,10,145.00,28-02-2024,SoundPro
+P003,HDMI Cable,Accessories,200,40,8.50,2024-02-10,CableWorld
+P010,Desk Lamp,Furniture,90,20,32.00,2024-03-01,

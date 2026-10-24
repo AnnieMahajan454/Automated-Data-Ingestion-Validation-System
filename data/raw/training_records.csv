@@ -1,0 +1,13 @@
+Record ID,Staff Name,Department,Training Course,Start Date,End Date,Score (%),Certified
+TR001,Olivia Pope,HR,Data Privacy,2024-07-01,2024-07-03,88,Yes
+TR002,fitzgerald grant,HR,Leadership,07/05/2024,2024-07-07,72,Yes
+TR003,HUCK FINN,IT,Cybersecurity,2024-07-08,2024-07-10,95,Yes
+TR001,Olivia Pope,HR,Data Privacy,2024-07-01,2024-07-03,88,Yes
+TR004,Abby Whelan,,Excel Advanced,July 12 2024,2024-07-13,60,No
+TR005,David Rosen,Legal,Data Privacy,2024-07-15,2024-07-17,N/A,Yes
+TR006,,IT,Cybersecurity,2024/07/18,2024-07-20,91,Yes
+TR007,Elizabeth North,PR,Leadership,18-07-2024,2024-07-21,55,No
+TR008,Leo Bergen,Communications,Excel Advanced,2024-07-22,,78,Yes
+TR003,HUCK FINN,IT,Cybersecurity,2024-07-08,2024-07-10,95,Yes
+TR009,Marcus Walker,Marketing,Social Media,2024-07-25,2024-07-26,83,yes
+TR010,quinn perkins,IT,Cybersecurity,2024-07-28,2024-07-30,97,YES

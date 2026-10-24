@@ -1,0 +1,13 @@
+order_id,CUSTOMER ID,customer email,Order Date,Delivery Date,Amount,Payment Method,Order Status
+ORD-001,C101,alice@email.com,2024-03-01,2024-03-05,250.00,Credit Card,Delivered
+ORD-002,c102,BOB@EMAIL.COM,03/03/2024,,175.50,paypal,Shipped
+ORD-003,C103,charlie@email.com,2024-03-05,2024-03-09,89.99,Credit Card,Delivered
+ORD-001,C101,alice@email.com,2024-03-01,2024-03-05,250.00,Credit Card,Delivered
+ORD-004,,diana@email.com,March 7 2024,2024-03-12,320.00,Debit Card,
+ORD-005,C105,evan@email.com,2024-03-08,2024-03-10,N/A,Credit Card,Delivered
+ORD-006,C106,,2024/03/10,2024-03-15,540.00,Bank Transfer,Processing
+ORD-007,C107,grace@email.com,10-03-2024,2024-03-14,95.00,payPal,Delivered
+ORD-008,C108,henry@email.com,2024-03-12,,210.75,Credit card,Shipped
+ORD-003,C103,charlie@email.com,2024-03-05,2024-03-09,89.99,Credit Card,Delivered
+ORD-009,C109,iris@email.com,2024-03-14,2024-03-18,67.00,Debit Card,Processing
+ORD-010,C110,jack@email.com,2024-03-15,2024-03-20,430.00,,Delivered

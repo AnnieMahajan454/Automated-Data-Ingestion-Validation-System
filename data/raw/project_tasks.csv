@@ -1,0 +1,13 @@
+Task ID,Project,Assigned To,Priority,Start Date,Deadline,Status,Hours Logged
+T001,Website Redesign,Alice Nguyen,High,2024-08-01,2024-08-15,In Progress,12
+T002,website redesign,bob martinez,medium,08/03/2024,2024-08-18,In progress,8
+T003,CRM MIGRATION,Carol Lee,High,2024-08-05,2024-08-30,Not Started,0
+T001,Website Redesign,Alice Nguyen,High,2024-08-01,2024-08-15,In Progress,12
+T004,CRM Migration,,Low,Aug 7 2024,2024-09-05,,5
+T005,Data Warehouse,Evan Park,High,2024-08-10,2024-08-25,N/A,20
+T006,Data Warehouse,Frank Zhao,High,2024/08/12,2024-08-28,In Progress,
+T007,website redesign,Grace Kim,LOW,12-08-2024,2024-08-20,Completed,15
+T008,CRM Migration,Henry Wu,Medium,2024-08-14,2024-09-01,In Progress,10
+T003,CRM MIGRATION,Carol Lee,High,2024-08-05,2024-08-30,Not Started,0
+T009,Data Warehouse,Irene Chen,High,2024-08-16,2024-08-30,in progress,18
+T010,Website Redesign,James Liu,Medium,2024-08-18,2024-08-22,COMPLETED,9

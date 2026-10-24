@@ -1,0 +1,13 @@
+Return ID,Order Ref,Return Date,Customer,Product Returned,Reason,Refund Amount,Refund Status
+R001,ORD-201,2024-04-02,Tom Hardy,Laptop,Defective,850.00,Processed
+R002,ORD-202,04/05/2024,emma stone,Keyboard,Wrong Item,45.00,Pending
+R003,ORD-203,2024-04-07,CHRIS EVANS,Mouse,Not as described,,Processed
+R001,ORD-201,2024-04-02,Tom Hardy,Laptop,Defective,850.00,Processed
+R004,ORD-204,,Scarlett J,Monitor,Damaged in transit,200.00,
+R005,ORD-205,April 10 2024,Robert D,Headphones,N/A,120.00,Processed
+R006,ORD-206,2024/04/12,,USB Hub,Changed mind,15.00,Pending
+R007,ORD-207,12-04-2024,Mark Ruffalo,Webcam,Defective,89.99,processed
+R008,ORD-208,2024-04-15,Chris Pratt,Laptop Stand,Wrong Item,22.00,Pending
+R003,ORD-203,2024-04-07,CHRIS EVANS,Mouse,Not as described,,Processed
+R009,ORD-209,2024-04-18,Jeremy Renner,HDMI Cable,Defective,8.50,PROCESSED
+R010,ORD-210,2024-04-20,Elizabeth Olsen,Webcam,Damaged in transit,65.00,

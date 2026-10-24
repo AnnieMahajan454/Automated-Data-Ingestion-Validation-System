@@ -1,0 +1,13 @@
+Session ID,Visit Date,User ID,Page Visited,Time Spent (mins),Device,Country,Converted
+S0001,2024-06-01,U1001,/home,3.5,Mobile,Nigeria,Yes
+S0002,u1002,06/02/2024,/products,7.2,desktop,Ghana,No
+S0003,S0003,2024-06-03,U1003,/checkout,12.0,Tablet,,Yes
+S0001,2024-06-01,U1001,/home,3.5,Mobile,Nigeria,Yes
+S0004,2024-06-04,U1004,/about,1.8,,Kenya,No
+S0005,2024-06-05,U1005,/products,N/A,Mobile,Nigeria,Yes
+S0006,2024-06-06,U1006,/home,4.1,DESKTOP,South Africa,
+S0007,June 7 2024,U1007,/blog,9.3,mobile,Nigeria,No
+S0008,2024/06/08,U1008,/checkout,15.5,Tablet,Ghana,Yes
+S0003,2024-06-03,U1003,/checkout,12.0,Tablet,,Yes
+S0009,08-06-2024,U1009,/contact,2.2,Desktop,Nigeria,No
+S0010,2024-06-10,,/products,6.8,Mobile,Cameroon,Yes

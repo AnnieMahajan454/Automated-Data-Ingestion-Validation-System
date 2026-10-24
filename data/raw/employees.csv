@@ -1,0 +1,12 @@
+EMP_ID,Full Name,DATE JOINED,Department,Salary,Email,Phone,Status
+E001,Michael Scott,15-03-2018,Management,75000,michael.scott@dundermifflin.com,555-0101,Active
+E002,dwight schrute,2019/07/22,Sales,52000,dwight@dundermifflin.com,,Active
+E003,JIM HALPERT,2018-03-15,Sales,54000,,555-0103,Active
+E001,Michael Scott,15-03-2018,Management,75000,michael.scott@dundermifflin.com,555-0101,Active
+E004,Pam Beesly,April 10 2020,Reception,38000,pam@dundermifflin.com,555-0104,
+E005,Ryan Howard,2021-11-01,Temp,28000,ryan@dundermifflin.com,555-0105,Inactive
+E006,,2020-06-30,Accounting,61000,oscar@dundermifflin.com,555-0106,Active
+E007,Kevin Malone,07/15/2019,Accounting,N/A,kevin@dundermifflin.com,555-0107,Active
+E008,Angela Martin,2019-07-15,Accounting,57000,angela@dundermifflin.com,,active
+E009,stanley hudson,2017-02-28,Sales,59000,stanley@dundermifflin.com,555-0109,ACTIVE
+E010,Phyllis Vance,2018-09-05,Sales,51000,,555-0110,Active

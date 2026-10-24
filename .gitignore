@@ -1,0 +1,26 @@
+# Database file — don't commit the actual data
+pipeline.db
+
+# Log files — generated at runtime
+pipeline.log
+scheduler.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual environment (if you use one)
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
