@@ -205,11 +205,3 @@ The next pipeline run picks it up automatically.
 | SQLite | Local SQL database | Free (built into Python) |
 | PostgreSQL | Production-grade database (optional) | Free |
 | schedule | Weekly automation | Free |
-
----
-
-## Author
-
-Built as a Data Engineering learning project.
-
-*Part of a step-by-step data engineering curriculum covering ingestion, transformation, loading, scheduling, logging, and testing.*
